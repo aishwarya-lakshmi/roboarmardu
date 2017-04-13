@@ -1,5 +1,4 @@
 # roboarmardu
-#its a code describing the working of robo arm 
 
 #include <Servo.h>
 
